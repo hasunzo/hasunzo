@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4682b4&height=300&section=header&text=hasun👩‍💻&fontColor=ffffff&fontSize=90)
-
 <div align=center>
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4682b4&height=300&section=header&text=hasun👩‍💻&fontColor=ffffff&fontSize=90)
   
 ## 🛠 stack
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white)
 
   
-## 💻 me
+## 💻 about me
 [![Blogger](https://img.shields.io/badge/blog-4682b4?style=flat-square&logo=Blogger&logoColor=white)](https://steel-blue.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gktjsdl470@gmail.com)
   
