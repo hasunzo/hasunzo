@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=4682b4&height=300&section=header&text=hasun👩‍💻&fontColor=ffffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=F5FFFA&height=300&section=header&text=hello-world!&fontColor=FFE4E1&fontSize=90)
   
 ## 🛠 stack
 
