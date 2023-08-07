@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=FFF&height=180&section=header&text=hello-world!&fontColor=999999&fontSize=67)
   
 ## 💻 about me
-[![Blogger](https://img.shields.io/badge/blog-4682b4?style=flat-square&logo=Blogger&logoColor=white)](https://steel-blue.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:gktjsdl470@gmail.com)
   
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=hasunzo" height="165">
